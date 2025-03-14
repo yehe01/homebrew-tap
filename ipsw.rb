@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class ipsw < Formula
+class Ipsw < Formula
   desc "iOS/macOS Research Swiss Army Knife"
   homepage "https://blacktop.github.io/ipsw"
   url "https://github.com/yehe01/ipsw/releases/download/v1.0.0/ipsw-1.0.0.tar.gz"
