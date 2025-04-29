@@ -4,8 +4,8 @@
 class Ipsw < Formula
   desc "iOS/macOS Research Swiss Army Knife"
   homepage "https://blacktop.github.io/ipsw"
-  url "https://github.com/yehe01/ipsw/releases/download/v1.0.0/ipsw-1.0.0.tar.gz"
-  sha256 "fe9bbe755f106ae81e182439905e018b59e2c4390235b57a7ce591d3f9be9b11"
+  url "https://github.com/yehe01/ipsw/releases/download/v1.0.1/ipsw-1.0.1.tar.gz"
+  sha256 "1aab50f4dab17a4ff29ebe4560e20636567ae5662b48fbed01778f655bacf528"
   license "MIT"
 
   # depends_on "cmake" => :build
